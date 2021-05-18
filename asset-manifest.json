@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myreacteapp/static/css/main.c4130275.chunk.css",
+    "main.js": "/myreacteapp/static/js/main.59b9d391.chunk.js",
+    "main.js.map": "/myreacteapp/static/js/main.59b9d391.chunk.js.map",
+    "runtime-main.js": "/myreacteapp/static/js/runtime-main.15e10cb7.js",
+    "runtime-main.js.map": "/myreacteapp/static/js/runtime-main.15e10cb7.js.map",
+    "static/js/2.3010f1db.chunk.js": "/myreacteapp/static/js/2.3010f1db.chunk.js",
+    "static/js/2.3010f1db.chunk.js.map": "/myreacteapp/static/js/2.3010f1db.chunk.js.map",
+    "static/js/3.ed4bc32b.chunk.js": "/myreacteapp/static/js/3.ed4bc32b.chunk.js",
+    "static/js/3.ed4bc32b.chunk.js.map": "/myreacteapp/static/js/3.ed4bc32b.chunk.js.map",
+    "index.html": "/myreacteapp/index.html",
+    "static/css/main.c4130275.chunk.css.map": "/myreacteapp/static/css/main.c4130275.chunk.css.map",
+    "static/js/2.3010f1db.chunk.js.LICENSE.txt": "/myreacteapp/static/js/2.3010f1db.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/myreacteapp/static/media/icon-error.b72f792e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15e10cb7.js",
+    "static/js/2.3010f1db.chunk.js",
+    "static/css/main.c4130275.chunk.css",
+    "static/js/main.59b9d391.chunk.js"
+  ]
+}
